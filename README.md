@@ -1,16 +1,39 @@
-## Hi there 👋
+# Kinza Salah-ud-din
 
-<!--
-**KinzaSalahuddin/KinzaSalahuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineering student interested in programming and software development. I am currently learning different programming concepts and development tools. I enjoy improving my technical skills and working on new projects.
+
+
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | C#, C++ |
+| Database | MySQL |
+| Tools | Git, GitHub, VS Code |
+
+
+## Featured Projects
+
+### Showroom Management System
+
+A web-based application developed to manage showroom-related activities and provide an organized online system.
+
+### University Management System
+
+A desktop-based application developed to manage university-related information and administrative activities.
+
+## Education
+
+Software Engineering  
+University of Enginneering and Technology  
+2025-2029
+
+
+## Contact
+
+- Email: kinzasalahudin0@gmail.com
+- GitHub: [@KinzaSalahuddin](https://github.com/KinzaSalahuddin)
+
